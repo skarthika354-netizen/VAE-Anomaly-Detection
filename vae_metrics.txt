@@ -1,0 +1,5 @@
+ROC_AUC: 1.0
+Threshold: 8.076155828939793
+Precision: 1.0
+Recall: 1.0
+F1: 1.0
